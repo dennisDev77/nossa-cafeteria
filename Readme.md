@@ -1,5 +1,5 @@
 
-## 📌 Cafeteria
+## 📌 NossaCafeteria
 > O projeto é uma página web para uma cafeteria chamada “Cafeteria”. A página utiliza HTML5, Bootstrap e CSS para criar uma interface responsiva e atraente. O código inclui um cabeçalho com um menu de navegação e um carrossel de imagens para exibir informações sobre a cafeteria.
 <br>
 
