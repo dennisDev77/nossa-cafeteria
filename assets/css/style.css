@@ -11,7 +11,7 @@ header {
 
 .navbar-nav .nav-link.active {
     color: #FFF;
-    background-color: rgb(146, 100, 13);
+    background-color: rgba(109, 90, 54, 0.81);
 }
 
 .navbar-nav {
